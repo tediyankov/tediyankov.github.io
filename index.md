@@ -4,12 +4,12 @@
 
 ### Research 
 
-[Predicting Bilateral Refugee Flows: Evaluating the Gravity Model and Ethnocultural Linkages for Migration Policy](/sample_page)
-<img src="images/uclThesisCover.png?raw=true"/>
+[Gravity Models for Global Migration Flows: A Predictive Evaluation]([http://example.com/](https://link.springer.com/article/10.1007/s11113-024-09867-6#:~:text=The%20central%20underlying%20assumption%20of,(see%20(Ramos%2C%202016)))
+<img src="images/GMpaperCover.png?raw=true"/>
 
 ---
-[Gravity Models for Global Migration Flows: A Predictive Evaluation]([http://example.com/](https://link.springer.com/article/10.1007/s11113-024-09867-6#:~:text=The%20central%20underlying%20assumption%20of,(see%20(Ramos%2C%202016)))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting Bilateral Refugee Flows: Evaluating the Gravity Model and Ethnocultural Linkages for Migration Policy](/sample_page)
+<img src="images/uclThesisCover.png?raw=true"/>
 
 ---
 
