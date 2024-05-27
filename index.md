@@ -4,6 +4,11 @@
 
 ### Research 
 
+[Parallel Network Change:\nAn Analysis of Migration-Trade-Terrorism Co-Evolution with Temporal Graph Distances and Latent Space Modelling](/pdf/Networks and Time II.pdf)
+<img src="images/NTPipeline.png?raw=true" style="width: 90%; height: auto;">
+
+---
+
 [Predicting Bilateral Refugee Flows: Evaluating the Gravity Model and Ethnocultural Linkages for Migration Policy](/pdf/BScThesis.pdf)
 <img src="images/uclThesisCover.png?raw=true" style="width: 90%; height: auto;">
 
