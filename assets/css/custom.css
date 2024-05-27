@@ -63,23 +63,3 @@ a:visited {
 a:hover {
     color: #b26634; /* Change this to your desired hyperlink color on hover */
 }
-
-/* Optional: Customize the details and summary tags */
-details {
-  margin-bottom: 1em;
-}
-
-summary {
-  font-size: 1.5em;
-  font-weight: bold;
-  cursor: pointer;
-  list-style: none;
-}
-
-details[open] summary {
-  margin-bottom: .5em;
-}
-
-details div {
-  padding-left: 1em;
-}
