@@ -5,8 +5,6 @@
 ### Research 
 
 [Parallel Network Change: An Analysis of Migration-Trade-Terrorism Co-Evolution with Temporal Graph Distances and Latent Space Modelling](/pdf/Networks_and_Time II.pdf)
-
-abc /n 
 <img src="images/NTPipeline.png?raw=true" style="width: 90%; height: auto;">
 
 ---
