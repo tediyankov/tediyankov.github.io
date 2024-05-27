@@ -4,7 +4,7 @@
 
 ### Research 
 
-[Predicting Bilateral Refugee Flows: Evaluating the Gravity Model and Ethnocultural Linkages for Migration Policy](/sample_page)
+[Predicting Bilateral Refugee Flows: Evaluating the Gravity Model and Ethnocultural Linkages for Migration Policy](/pdf/BScThesis.pdf)
 <img src="images/uclThesisCover.png?raw=true" style="width: 90%; height: auto;">
 
 ---
