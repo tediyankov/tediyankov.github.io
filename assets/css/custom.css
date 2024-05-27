@@ -3,7 +3,8 @@
 }
 
 .button {
-    display: inline-block;
+    display: inline-flex;  /* Use inline-flex for proper alignment */
+    align-items: center;  /* Center items vertically */
     padding: 7px 16px;
     margin: 5px;
     font-size: 16px;
@@ -11,7 +12,8 @@
     background-color: #b99976;
     text-align: center;
     text-decoration: none;
-    border-radius: 20px;
+    border-radius: 20px; /* Rounder edges */
+    vertical-align: middle;
 }
 
 .button .icon {
@@ -19,6 +21,23 @@
     height: 5px; /* Adjust size as needed */
     margin-right: 2px;
     vertical-align: middle;
+}
+
+.button:hover {
+    background-color: #0056b3;
+    text-decoration: none;
+}
+
+/* Page title styling */
+h1 a {
+    font-family: 'Arial', sans-serif; /* Change to your desired font */
+    font-size: 36px; /* Adjust the size */
+    color: #333; /* Change the color */
+    text-decoration: none;
+}
+
+h1 a:hover {
+    color: #555; /* Optional: change color on hover */
 }
 
 .button:hover {
