@@ -1,8 +1,8 @@
-## Portfolio
+## Data Science Portfolio
 
 ---
 
-### Category Name 1 
+### Research 
 
 [Predicting Bilateral Refugee Flows: Evaluating the Gravity Model and Ethnocultural Linkages for Migration Policy](/sample_page)
 <img src="images/uclThesisCover.png?raw=true"/>
