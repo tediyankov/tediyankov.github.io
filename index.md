@@ -6,6 +6,7 @@
 
 ![](https://img.shields.io/badge/Status-Ongoing-006400)
 [![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/tediyankov/ParallelNetworkChange)
+<br><br>
 [Parallel Network Change: An Analysis of Migration-Trade-Terrorism Co-Evolution with Temporal Graph Distances and Latent Space Modelling](/pdf/Networks_and_Time II.pdf)
 <br><br>
 <img src="images/NTPipeline.png?raw=true" style="width: 100%; height: auto;">
