@@ -31,7 +31,7 @@
 /* Page title styling */
 h1 a {
     font-family: 'Cutive Mono', monospace; /* Ensure the page title uses the same font */
-    font-size: 36px; /* Adjust the size */
+    font-size: 30px; /* Adjust the size */
     color: #18392b; /* Change the color */
     text-decoration: none;
 }
