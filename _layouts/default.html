@@ -16,6 +16,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1">
    {% seo %}
    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+   <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
    <!--[if lt IE 9]>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
    <![endif]-->
@@ -28,11 +29,12 @@
          <img src="{{site.logo | relative_url}}" alt="Logo" />
          {% endif %}
          <p>{{ site.description | default: site.github.project_tagline }}</p>
+         <div class="buttons">
+            <a href="https://www.linkedin.com/in/example/" class="button">LinkedIn</a>
+            <a href="{{ site.github.owner_url }}" class="button">GitHub</a>
+         </div>
          {% if site.github.is_project_page %}
          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-         {% endif %}
-         {% if site.github.is_user_page %}
-         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
          {% endif %}
          {% if site.show_downloads %}
          <ul class="downloads">
