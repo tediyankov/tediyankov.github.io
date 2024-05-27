@@ -6,8 +6,8 @@
     display: inline-flex;  /* Use inline-flex for proper alignment */
     align-items: center;  /* Center items vertically */
     padding: 7px 16px;
-    margin: 5px;
-    font-size: 16px;
+    margin: 3px;
+    font-size: 14px;
     color: #fff;
     background-color: #b99976;
     text-align: center;
