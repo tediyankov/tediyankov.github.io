@@ -6,7 +6,7 @@
 
 [Parallel Network Change: An Analysis of Migration-Trade-Terrorism Co-Evolution with Temporal Graph Distances and Latent Space Modelling](/pdf/Networks_and_Time II.pdf)
 <br><br>
-[![](https://img.shields.io/badge/_-View_on_GitHub-6A4A3A?logo=GitHub)](https://github.com/tediyankov/ParallelNetworkChange)
+[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/tediyankov/ParallelNetworkChange)
 <img src="images/NTPipeline.png?raw=true" style="width: 100%; height: auto;">
 
 Presented at the Networks and Time II conference hosted by Network Science Institute at Northeastern University London.
