@@ -7,6 +7,7 @@
 [Parallel Network Change: An Analysis of Migration-Trade-Terrorism Co-Evolution with Temporal Graph Distances and Latent Space Modelling](/pdf/Networks_and_Time II.pdf)
 <img src="images/NTPipeline.png?raw=true" style="width: 90%; height: auto;">
 
+Presented at the Networks and Time II conference hosted by Network Science Institute at Northeastern University London.
 ---
 
 [Predicting Bilateral Refugee Flows: Evaluating the Gravity Model and Ethnocultural Linkages for Migration Policy](/pdf/BScThesis.pdf)
