@@ -7,7 +7,7 @@
     align-items: center;  /* Center items vertically */
     padding: 7px 16px;
     margin: 3px;
-    font-size: 13px;
+    font-size: 14px;
     color: #fff;
     background-color: #b99976;
     text-align: center;
@@ -32,7 +32,7 @@
 h1 a {
     font-family: 'Cutive Mono', monospace; /* Ensure the page title uses the same font */
     font-size: 36px; /* Adjust the size */
-    color: #1d2e28; /* Change the color */
+    color: #18392b; /* Change the color */
     text-decoration: none;
 }
 
