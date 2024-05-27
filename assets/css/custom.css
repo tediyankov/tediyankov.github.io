@@ -50,7 +50,7 @@ body {
 }
 
 /* Change hyperlink color */
-a {
+a:not(.button) {
     color: #1f5f5b; /* Change this to your desired hyperlink color */
 }
 
