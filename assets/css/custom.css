@@ -30,7 +30,7 @@
 
 /* Page title styling */
 h1 a {
-    font-family: 'Arial', sans-serif; /* Change to your desired font */
+    font-family: 'Cutive Mono', monospace; /* Ensure the page title uses the same font */
     font-size: 36px; /* Adjust the size */
     color: #333; /* Change the color */
     text-decoration: none;
@@ -38,6 +38,10 @@ h1 a {
 
 h1 a:hover {
     color: #555; /* Optional: change color on hover */
+}
+
+body {
+    font-family: 'Cutive Mono', monospace;
 }
 
 .button:hover {
