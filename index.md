@@ -4,7 +4,7 @@
 
 ### Research 
 
-![](https://img.shields.io/badge/Status-Ongoing-C95COA)
+![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
 [![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/tediyankov/ParallelNetworkChange)
 <br>
 [Parallel Network Change: An Analysis of Migration-Trade-Terrorism Co-Evolution with Temporal Graph Distances and Latent Space Modelling](/pdf/Networks_and_Time II.pdf)
