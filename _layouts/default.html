@@ -28,12 +28,12 @@
          {% if site.logo %}
          <img src="{{site.logo | relative_url}}" alt="Logo" />
          <div class="buttons">
-            <a href="https://www.linkedin.com/in/example/" class="button">LinkedIn</a>
-               <img src="{{ "/images/linkedin.png" | relative_url }}" alt="LinkedIn" class="icon"> LinkedIn
-            </a>
-            <a href="{{ site.github.owner_url }}" class="button">GitHub</a>
-               <img src="{{ "/images/github.png" | relative_url }}" alt="GitHub" class="icon"> GitHub
-            </a>
+             <a href="https://www.linkedin.com/in/example/" class="button">
+                 <img src="{{ "/images/linkedin.png" | relative_url }}" alt="LinkedIn" class="icon"> LinkedIn
+             </a>
+             <a href="{{ site.github.owner_url }}" class="button">
+                 <img src="{{ "/images/github.png" | relative_url }}" alt="GitHub" class="icon"> GitHub
+             </a>
          </div>
          {% endif %}
          <p>{{ site.description | default: site.github.project_tagline }}</p>
