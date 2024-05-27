@@ -48,3 +48,18 @@ body {
     background-color: #e5d3b3;
     text-decoration: none;
 }
+
+/* Change hyperlink color */
+a {
+    color: #1f5f5b; /* Change this to your desired hyperlink color */
+}
+
+/* Change visited hyperlink color */
+a:visited {
+    color: #335736; /* Change this to your desired visited hyperlink color */
+}
+
+/* Change hyperlink color on hover */
+a:hover {
+    color: #b26634; /* Change this to your desired hyperlink color on hover */
+}
