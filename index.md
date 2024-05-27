@@ -4,7 +4,7 @@
 
 ### Research 
 
-![](https://img.shields.io/badge/Status-Ongoing-006400)
+![](https://img.shields.io/badge/Status-Ongoing-C95COA)
 [![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/tediyankov/ParallelNetworkChange)
 <br>
 [Parallel Network Change: An Analysis of Migration-Trade-Terrorism Co-Evolution with Temporal Graph Distances and Latent Space Modelling](/pdf/Networks_and_Time II.pdf)
@@ -14,7 +14,8 @@
 Presented at the Networks and Time II conference hosted by Network Science Institute at Northeastern University London.
 
 ---
-
+![](https://img.shields.io/badge/Status-Complete-006400)
+<br>
 [Predicting Bilateral Refugee Flows: Evaluating the Gravity Model and Ethnocultural Linkages for Migration Policy](/pdf/BScThesis.pdf)
 <br><br>
 <img src="images/uclThesisCover.png?raw=true" style="width: 90%; height: auto;">
