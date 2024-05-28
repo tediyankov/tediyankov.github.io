@@ -42,7 +42,7 @@ Presented at the Networks and Time II conference hosted by Network Science Insti
 This report summarised the exploration of whether inflammatory negative sentiment predict in-degree centrality in online social networks. Using a sample of 5 submissions on r/UmbrellaAcademy, discourse around Elliot Page coming out as a transgender man was scored using sentiment analysis. The extracted data was used to construct a network of comments, and the in-degree centrality of each node was compared to inflammatory negative sentiment using multiple regression with time fixed effects. The results suggest that inflammatory negative sentiment does not have a strong positive effect on centrality, but instead a weak positive one.
 <br><br>
 <div style="text-align: center;">
-  <img src="images/reddit_example?raw=true" style="width: 70%; height: auto;">
+  <img src="images/reddit_example.png?raw=true" style="width: 70%; height: auto;">
 </div>
 
 ---
