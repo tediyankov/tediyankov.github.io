@@ -73,6 +73,7 @@ At the World Data Lab, I play a key role in the development of, and insight mini
 
 ![](https://img.shields.io/badge/Status-Complete-006400)
 [![](https://img.shields.io/badge/Published-See_Online-3792CB)](https://www.brookings.edu/articles/building-a-prosperous-world-with-fewer-emissions/)
+[![](https://img.shields.io/badge/_-Watch_video-FF0000?logo=YouTube)](https://www.youtube.com/watch?v=lcD5tQhJbq8)
 <br>
 **Towards Low Carbon Prosperity**
 <br><br>
