@@ -46,6 +46,16 @@ At the World Data Lab, I play a key role in the development of, and insight mini
 
 ![](https://img.shields.io/badge/Status-Online-006400)
 <br>
+[World Data Pro](https://www.linkedin.com/products/worlddatalab-internet-poverty-index/)
+<br><br>
+At the World Data Lab, I supported the development of World Data Pro - a leading insights and analytics platform used by business strategy and consumer insights leaders, investors, policymakers, economists, and researchers to forecast and quantify addressable markets, discover emerging opportunities, develop market and product strategies, and quantify impact. My main involvement has been in insights-mining, QAQC, data acquisition and researching missing data. 
+<br><br>
+<img src="images/IPI_demo.png?raw=true" style="width: 100%; height: auto;">
+
+---
+
+![](https://img.shields.io/badge/Status-Online-006400)
+<br>
 [Internet Poverty Index](https://www.linkedin.com/products/worlddatalab-internet-poverty-index/)
 <br><br>
 At the World Data Lab, I supported the development of the Internet Poverty Index (IPI) with data acquisition, insights mining and QAQC tasks. Currently, internet access is increasingly viewed as a basic requirement, alongside access to food, clothing, housing, and energy. The ability to accurately measure internet poverty can raise awareness and identify the most vulnerable groups. This is what the IPI does. 
