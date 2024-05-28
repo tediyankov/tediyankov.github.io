@@ -55,7 +55,7 @@ This project investigated whether inflammatory negative sentiment predict in-deg
 This was a data-driven exploration of the Stack Exchange forum on cooking. The project involved data acquisition with a Stack Exchange scraper, as well as the construction of an MVP Score, measuring the helpfulness of a user on the forum, using activity, text and time metrics. The score is a weighted index with PCA-derived weights. Using the index, various patterns were identified, such as the geographic distribution of helpful users (MVPs).   
 <br><br>
 <div style="text-align: center;">
-  <img src="images/reddit_example.png?raw=true" style="width: 70%; height: auto;">
+  <img src="images/StackX_example.png?raw=true" style="width: 70%; height: auto;">
 </div>
 ---
 
