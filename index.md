@@ -39,12 +39,24 @@ Presented at the Networks and Time II conference hosted by Network Science Insti
 <br>
 **Can inflammatory negative sentiment predict in-degree centrality in online social networks? A Reddit data analysis**
 <br>
-This report summarised the exploration of whether inflammatory negative sentiment predict in-degree centrality in online social networks. Using a sample of 5 submissions on r/UmbrellaAcademy, discourse around Elliot Page coming out as a transgender man was scored using sentiment analysis. The extracted data was used to construct a network of comments, and the in-degree centrality of each node was compared to inflammatory negative sentiment using multiple regression with time fixed effects. The results suggest that inflammatory negative sentiment does not have a strong positive effect on centrality, but instead a weak positive one.
+This project investigated whether inflammatory negative sentiment predict in-degree centrality in online social networks. Using a sample of 5 submissions on r/UmbrellaAcademy, discourse around Elliot Page coming out as a transgender man was scored using sentiment analysis. The extracted data was used to construct a network of comments, and the in-degree centrality of each node was compared to inflammatory negative sentiment using multiple regression with time fixed effects. The results suggest that inflammatory negative sentiment does not have a strong positive effect on centrality, but instead a weak positive one.
 <br><br>
 <div style="text-align: center;">
   <img src="images/reddit_example.png?raw=true" style="width: 70%; height: auto;">
 </div>
 
+---
+
+![](https://img.shields.io/badge/Status-Complete-006400)
+[![](https://img.shields.io/badge/Google_Colab-View_Project-F9AB00?logo=Colab)](https://colab.research.google.com/drive/10WElhtYH5XX3_i5wm50BfwTHp_gCiJHK?usp=sharing)
+<br>
+**A data deep-dive into the 'cooking' Stack Exchange forum**
+<br>
+This was a data-driven exploration of the Stack Exchange forum on cooking. The project involved data acquisition with a Stack Exchange scraper, as well as the construction of an MVP Score, measuring the helpfulness of a user on the forum, using activity, text and time metrics. The score is a weighted index with PCA-derived weights. Using the index, various patterns were identified, such as the geographic distribution of helpful users (MVPs).   
+<br><br>
+<div style="text-align: center;">
+  <img src="images/reddit_example.png?raw=true" style="width: 70%; height: auto;">
+</div>
 ---
 
 ![](https://img.shields.io/badge/Status-Online-006400)
