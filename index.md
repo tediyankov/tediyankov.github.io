@@ -34,6 +34,13 @@ Presented at the Networks and Time II conference hosted by Network Science Insti
 
 ### Projects
 
+![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
+![](https://img.shields.io/badge/Winner-Microsoft_AI_Hackathon-258FFA)
+
+**YouBee**
+
+---
+
 ![](https://img.shields.io/badge/Status-Complete-006400)
 [![](https://img.shields.io/badge/Google_Colab-View_Project-F9AB00?logo=Colab)](https://colab.research.google.com/drive/1UxO3P1JRrXY3lyrIQey_nOZGo1wpey8T?usp=sharing)
 <br>
