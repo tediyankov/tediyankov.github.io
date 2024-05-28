@@ -36,7 +36,7 @@ Presented at the Networks and Time II conference hosted by Network Science Insti
 ![](https://img.shields.io/badge/Status-Online-C95C0A)
 [World Emissions Clock](https://worldemissions.io)
 <br><br>
-<img src="images/WEC_logos.png?raw=true" style="width: 90%; height: auto;">
+<img src="images/WEC_logos.png?raw=true" style="width: 100%; height: auto;">
 <iframe width="560" height="315" src="https://youtu.be/2_Umq8Uo1CQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
