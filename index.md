@@ -46,12 +46,11 @@ At the World Data Lab, I play a key role in the development of, and insight mini
 
 ![](https://img.shields.io/badge/Status-Online-006400)
 <br>
-[Internet Poverty Index](https://worldemissions.io)
+[Internet Poverty Index](https://www.linkedin.com/products/worlddatalab-internet-poverty-index/)
 <br><br>
 At the World Data Lab, I supported the development of the Internet Poverty Index (IPI) with data acquisition, insights mining and QAQC tasks. Currently, internet access is increasingly viewed as a basic requirement, alongside access to food, clothing, housing, and energy. The ability to accurately measure internet poverty can raise awareness and identify the most vulnerable groups. This is what the IPI does. 
 <br><br>
-<img src="images/WEC_logos.png?raw=true" style="width: 100%; height: auto;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2_Umq8Uo1CQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="images/IPI_demo.png?raw=true" style="width: 100%; height: auto;">
 
 
 
