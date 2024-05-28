@@ -77,8 +77,11 @@ At the World Data Lab, I play a key role in the development of, and insight mini
 **Towards Low Carbon Prosperity**
 <br><br>
 Using the WEC, I led research on the possibility of a world which is prosperous yet sustainable - where developed economies can scale down emissions while maintaining wealth, and where developing economies can safely grow while keeping GHG emissions low. We found that if the rich countries adopted the best practices of their peers within each sector, level of emissions would decline to only 3.3 tons per capita—less than half of the world average and only around 20% of the per-capita emission of the U.S. We also found that the rich cannot alone solve the problem - it is crucial that both developed and developing nations take corrective action.
-<img src="images/WEC_logos.png?raw=true" style="width: 100%; height: auto;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2_Umq8Uo1CQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+<div style="text-align: center;">
+  <img src="images/zeroOECD.png?raw=true" style="width: 80%; height: auto;">
+</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=lcD5tQhJbq8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ![](https://img.shields.io/badge/Status-Online-006400)
