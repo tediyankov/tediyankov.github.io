@@ -36,6 +36,8 @@ Presented at the Networks and Time II conference hosted by Network Science Insti
 ![](https://img.shields.io/badge/Status-Online-C95C0A)
 <br>
 [World Emissions Clock](https://worldemissions.io)
+<br>
+At the World Data Lab, I play a key role in the development of, and insight mining from, the World Emissions Clock (WEC) tool. Launched at COP27, the WEC tracks and forecasts greenhouse gas emissions for 180 countries, 24 subsectors, along 3 emissions policy scenarios.
 <br><br>
 <img src="images/WEC_logos.png?raw=true" style="width: 100%; height: auto;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2_Umq8Uo1CQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
