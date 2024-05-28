@@ -33,9 +33,19 @@ Presented at the Networks and Time II conference hosted by Network Science Insti
 ---
 
 ### Projects
+
+![](https://img.shields.io/badge/Status-Complete-006400)
+[![](https://img.shields.io/badge/Google_Colab-View_Project-F9AB00?logo=Google_Colab)](https://colab.research.google.com/drive/1UxO3P1JRrXY3lyrIQey_nOZGo1wpey8T?usp=sharing)
+<br>
+**Can inflammatory negative sentiment predict in-degree centrality in online social networks? A Reddit data analysis**
+
+This report summarised the exploration of whether inflammatory negative sentiment predict in-degree centrality in online social networks. Using a sample of 5 submissions on r/UmbrellaAcademy, discourse around Elliot Page coming out as a transgender man was scored using sentiment analysis. The extracted data was used to construct a network of comments, and the in-degree centrality of each node was compared to inflammatory negative sentiment using multiple regression with time fixed effects. The results suggest that inflammatory negative sentiment does not have a strong positive effect on centrality, but instead a weak positive one.
+
+---
+
 ![](https://img.shields.io/badge/Status-Online-006400)
 <br>
-[World Emissions Clock](https://worldemissions.io)
+[**World Emissions Clock**](https://worldemissions.io)
 <br><br>
 At the World Data Lab, I play a key role in the development of, and insight mining from, the World Emissions Clock (WEC) tool. Launched at COP27, the WEC tracks and forecasts greenhouse gas emissions for 180 countries, 24 subsectors, along 3 emissions policy scenarios.
 <br><br>
@@ -46,7 +56,7 @@ At the World Data Lab, I play a key role in the development of, and insight mini
 
 ![](https://img.shields.io/badge/Status-Online-006400)
 <br>
-[World Data Pro](https://www.linkedin.com/products/worlddatalab-world-data-pro/)
+[**World Data Pro**](https://www.linkedin.com/products/worlddatalab-world-data-pro/)
 <br><br>
 At the World Data Lab, I support the development of World Data Pro - a leading insights and analytics platform used by business strategy and consumer insights leaders, investors, policymakers, economists, and researchers to forecast and quantify addressable markets, discover emerging opportunities, develop market and product strategies, and quantify impact. My main involvement has been in insights-mining, QAQC, data acquisition and researching missing data. 
 <br><br>
@@ -56,7 +66,7 @@ At the World Data Lab, I support the development of World Data Pro - a leading i
 
 ![](https://img.shields.io/badge/Status-Online-006400)
 <br>
-[Internet Poverty Index](https://www.linkedin.com/products/worlddatalab-internet-poverty-index/)
+[**Internet Poverty Index**](https://www.linkedin.com/products/worlddatalab-internet-poverty-index/)
 <br><br>
 At the World Data Lab, I supported the development of the Internet Poverty Index (IPI) with data acquisition, insights mining and QAQC tasks. Currently, internet access is increasingly viewed as a basic requirement, alongside access to food, clothing, housing, and energy. The ability to accurately measure internet poverty can raise awareness and identify the most vulnerable groups. This is what the IPI does. 
 <br><br>
