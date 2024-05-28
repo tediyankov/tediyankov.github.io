@@ -33,7 +33,7 @@ Presented at the Networks and Time II conference hosted by Network Science Insti
 ---
 
 ### Projects
-![](https://img.shields.io/badge/Status-Online-C95C0A)
+![](https://img.shields.io/badge/Status-Online-006400)
 <br>
 [World Emissions Clock](https://worldemissions.io)
 <br><br>
