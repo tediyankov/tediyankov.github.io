@@ -82,7 +82,6 @@ Using the WEC, I led research on the possibility of a world which is prosperous 
 <div style="text-align: center;">
   <img src="images/zeroOECD.png?raw=true" style="width: 100%; height: auto;">
 </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v=lcD5tQhJbq8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ![](https://img.shields.io/badge/Status-Online-006400)
