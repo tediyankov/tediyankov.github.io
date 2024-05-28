@@ -15,6 +15,7 @@ Presented at the Networks and Time II conference hosted by Network Science Insti
 
 ---
 ![](https://img.shields.io/badge/Status-Complete-006400)
+[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/tediyankov/Bachelor-s-Thesis)
 <br>
 [Predicting Bilateral Refugee Flows: Evaluating the Gravity Model and Ethnocultural Linkages for Migration Policy](/pdf/BScThesis.pdf)
 <br><br>
