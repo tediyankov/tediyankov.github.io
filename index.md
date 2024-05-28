@@ -32,13 +32,11 @@ Presented at the Networks and Time II conference hosted by Network Science Insti
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Projects
+![](https://img.shields.io/badge/Status-Online-C95C0A)
+[World Emissions Clock](https://worldemissions.io)
+<br><br>
+<iframe width="560" height="315" src="https://youtu.be/2_Umq8Uo1CQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
