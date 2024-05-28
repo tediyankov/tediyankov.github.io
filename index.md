@@ -44,7 +44,7 @@ Actively building an app - YouBee - as co-founder and Chief Data Officer. YouBee
   <img src="images/YouBee_architecture.png?raw=true" style="width: 100%; height: auto;">
 </div>
 <div style="text-align: center;">
-  <img src="images/YouBee_Show.png?raw=true" style="width: 100%; height: auto;">
+  <img src="images/YouBee_show.png?raw=true" style="width: 100%; height: auto;">
 </div>
 ---
 
