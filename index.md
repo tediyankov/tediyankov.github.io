@@ -35,7 +35,7 @@ Presented at the Networks and Time II conference hosted by Network Science Insti
 ### Projects
 
 ![](https://img.shields.io/badge/Status-Complete-006400)
-[![](https://img.shields.io/badge/Google_Colab-View_Project-F9AB00?logo=Google_Colab)](https://colab.research.google.com/drive/1UxO3P1JRrXY3lyrIQey_nOZGo1wpey8T?usp=sharing)
+[![](https://img.shields.io/badge/Google_Colab-View_Project-F9AB00?logo=Colab)](https://colab.research.google.com/drive/1UxO3P1JRrXY3lyrIQey_nOZGo1wpey8T?usp=sharing)
 <br>
 **Can inflammatory negative sentiment predict in-degree centrality in online social networks? A Reddit data analysis**
 
