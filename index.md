@@ -4,6 +4,15 @@
 
 ### Research 
 
+[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/tediyankov/mignar-benchmark)
+![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
+<br>
+[MigNar : An AI-driven Synthetic Ground Truth Benchmark for Narrative Extraction Algorithms](/pdf/NarrAI_slides.pdf)
+<br><br>
+
+I am the lead author on ongoing research collaboration between the Oxford Internet Institute and the University of Oxford’s Centre on Migration, Policy and Society (COMPAS), building MigNar - a benchmark dataset which leverages recent advances in generative transformer-based large language models (LLMs) to simulate ground truth in a corpus of synthetically generated articles on Brexit and migration. MigNar offers an innovative approach to benchmarking topic and narrative models through relying on synthetic data, making ground truth significantly more accessible. Thus far, MigNar has proven its capability to discriminate between algorithms in a theoretically consistent manner and replicate mul- tiple qualities of human-generated text. Work is ongoing on decreasing hallucination risk, as well as humanising the benchmark text. 
+
+---
 [![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/tediyankov/narr-ai)
 ![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
 <br>
