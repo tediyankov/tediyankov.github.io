@@ -55,18 +55,26 @@ Presented at the Networks and Time II conference hosted by Network Science Insti
 
 ### Projects
 
-![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
-![](https://img.shields.io/badge/Winner-Microsoft_AI_Hackathon-258FFA)
+[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/tediyankov/fragile-families-challenge)
+![](https://img.shields.io/badge/Status-Complete-006400)
 <br>
-**YouBee**
+**GPA Predictors in the Fragile Families Challenge**
+<br><br>
+<img src="images/unnamed.png?raw=true" style="width: 100%; height: auto;">
+
+In this project, I applied Machine Learning techniques to predict GPA outcomes using data from the Fragile Families and Child Wellbeing Study. I explored various models, including OLS, ElasticNet, Decision Trees, Random Forests, Gradient Boosting, and LGBM. After hyper-parameter tuning, the Random Forest model achieved the best performance with a 65.2% reduction in Mean Squared Error (MSE) from the baseline. The model demonstrated comparable performance to top models from the Fragile Families Challenge, given that the model ranked first for predicting GPA in the FFC had an MSE of 0.377 on the holdout set (Fragile Families Challenge Team, 2016) and my model’s MSE was 0.206 (imputed holdout set) and 0.365 (unimputed holdout set). Thus, I provide a robust approach to identifying key GPA predictors across cognitive, environmental, and socioeconomic factors.
+
+---
+
+[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/tediyankov/forced-mig-religion)
+![](https://img.shields.io/badge/Status-Complete-006400)
 <br>
-Actively building an app - YouBee - as co-founder and Chief Data Officer. YouBee is a transformative tool addressing the longitudinal decline in youth mental health, offering a non-invasive self assessment solution in the form of a simple mobile game. Through interactive, choice-driven scenarios resembling the game Episode, YouBee's multi-layer AI model takes users’ choice data and maps it to insights about what their key stressors are, and what types of remedies fits them best. This dynamic, personalised mental health profile is then used to make highly tailored recommendations for resources, tools and professionals.
-<div style="text-align: center;">
-  <img src="images/YouBee_architecture.png?raw=true" style="width: 100%; height: auto;">
-</div>
-<div style="text-align: center;">
-  <img src="images/YouBee_show.png?raw=true" style="width: 100%; height: auto;">
-</div>
+**Bound by Faith? Exploring the Association Between Religious Proximity and Forced Migrant Count**
+<br><br>
+<img src="images/AAS_fig.png?raw=true" style="width: 100%; height: auto;">
+
+In this project, I explored the association between religious proximity and forced migration flows using a dataset I constructed from multiple sources, covering bilateral flows from 1977 to 2023. By applying a Zero-Inflated Negative Binomial (ZINB) regression model, I found that an increase in the Religious Proximity Index between countries is significantly associated with a rise in forced migrant counts. The model highlights the overlooked role of religious ties in migration forecasting, suggesting that current models should be updated to incorporate these connections for more accurate predictions.
+
 ---
 
 ![](https://img.shields.io/badge/Status-Complete-006400)
@@ -92,6 +100,21 @@ This was a data-driven exploration of the Stack Exchange forum on cooking. The p
 <div style="text-align: center;">
   <img src="images/StackX_example.png?raw=true" style="width: 100%; height: auto;">
 </div>
+---
+
+![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
+![](https://img.shields.io/badge/Winner-Microsoft_AI_Hackathon-258FFA)
+<br>
+**YouBee**
+<br>
+Actively building an app - YouBee - as co-founder and Chief Data Officer. YouBee is a transformative tool addressing the longitudinal decline in youth mental health, offering a non-invasive self assessment solution in the form of a simple mobile game. Through interactive, choice-driven scenarios resembling the game Episode, YouBee's multi-layer AI model takes users’ choice data and maps it to insights about what their key stressors are, and what types of remedies fits them best. This dynamic, personalised mental health profile is then used to make highly tailored recommendations for resources, tools and professionals.
+<div style="text-align: center;">
+  <img src="images/YouBee_architecture.png?raw=true" style="width: 100%; height: auto;">
+</div>
+<div style="text-align: center;">
+  <img src="images/YouBee_show.png?raw=true" style="width: 100%; height: auto;">
+</div>
+
 ---
 
 ![](https://img.shields.io/badge/Status-Online-006400)
