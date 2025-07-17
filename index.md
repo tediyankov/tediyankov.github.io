@@ -64,6 +64,32 @@ Presented at the Networks and Time II conference hosted by Network Science Insti
 
 ### Projects
 
+![](https://img.shields.io/badge/Status-Online-006400)
+[![](https://img.shields.io/badge/Published-See_Online-3792CB)](https://www.brookings.edu/articles/tracking-emissions-by-country-and-sector/)
+<br>
+[**World Emissions Clock**](https://worldemissions.io)
+<br><br>
+At the World Data Lab, I play a key role in the development of, and insight mining from, the World Emissions Clock (WEC) tool. Launched at COP27, the WEC tracks and forecasts greenhouse gas emissions for 180 countries, 24 subsectors, along 3 emissions policy scenarios.
+<br><br>
+<img src="images/WEC_logos.png?raw=true" style="width: 100%; height: auto;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2_Umq8Uo1CQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+![](https://img.shields.io/badge/Status-Complete-006400)
+[![](https://img.shields.io/badge/Published-See_Online-3792CB)](https://www.brookings.edu/articles/building-a-prosperous-world-with-fewer-emissions/)
+[![](https://img.shields.io/badge/_-Watch_video-FF0000?logo=YouTube)](https://www.youtube.com/watch?v=lcD5tQhJbq8)
+<br>
+**Towards Low Carbon Prosperity**
+<br><br>
+Using the WEC, I led research on the possibility of a world which is prosperous yet sustainable - where developed economies can scale down emissions while maintaining wealth, and where developing economies can safely grow while keeping GHG emissions low. We found that if the rich countries adopted the best practices of their peers within each sector, level of emissions would decline to only 3.3 tons per capita—less than half of the world average and only around 20% of the per-capita emission of the U.S. We also found that the rich cannot alone solve the problem - it is crucial that both developed and developing nations take corrective action.
+<br><br>
+<div style="text-align: center;">
+  <img src="images/zeroOECD.png?raw=true" style="width: 100%; height: auto;">
+</div>
+
+---
+
 [![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/tediyankov/fragile-families-challenge)
 ![](https://img.shields.io/badge/Status-Complete-006400)
 <br>
@@ -124,31 +150,6 @@ Actively building an app - YouBee - as co-founder and Chief Data Officer. YouBee
   <img src="images/YouBee_show.png?raw=true" style="width: 100%; height: auto;">
 </div>
 
----
-
-![](https://img.shields.io/badge/Status-Online-006400)
-[![](https://img.shields.io/badge/Published-See_Online-3792CB)](https://www.brookings.edu/articles/tracking-emissions-by-country-and-sector/)
-<br>
-[**World Emissions Clock**](https://worldemissions.io)
-<br><br>
-At the World Data Lab, I play a key role in the development of, and insight mining from, the World Emissions Clock (WEC) tool. Launched at COP27, the WEC tracks and forecasts greenhouse gas emissions for 180 countries, 24 subsectors, along 3 emissions policy scenarios.
-<br><br>
-<img src="images/WEC_logos.png?raw=true" style="width: 100%; height: auto;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2_Umq8Uo1CQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-![](https://img.shields.io/badge/Status-Complete-006400)
-[![](https://img.shields.io/badge/Published-See_Online-3792CB)](https://www.brookings.edu/articles/building-a-prosperous-world-with-fewer-emissions/)
-[![](https://img.shields.io/badge/_-Watch_video-FF0000?logo=YouTube)](https://www.youtube.com/watch?v=lcD5tQhJbq8)
-<br>
-**Towards Low Carbon Prosperity**
-<br><br>
-Using the WEC, I led research on the possibility of a world which is prosperous yet sustainable - where developed economies can scale down emissions while maintaining wealth, and where developing economies can safely grow while keeping GHG emissions low. We found that if the rich countries adopted the best practices of their peers within each sector, level of emissions would decline to only 3.3 tons per capita—less than half of the world average and only around 20% of the per-capita emission of the U.S. We also found that the rich cannot alone solve the problem - it is crucial that both developed and developing nations take corrective action.
-<br><br>
-<div style="text-align: center;">
-  <img src="images/zeroOECD.png?raw=true" style="width: 100%; height: auto;">
-</div>
 ---
 
 ![](https://img.shields.io/badge/Status-Online-006400)
