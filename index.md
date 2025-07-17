@@ -4,6 +4,15 @@
 
 ### Research 
 
+![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
+<br>
+**EcoMultiRGNN: a Graph ML Model for Predicting Avian Migration from Ecological Suitability Networks**
+<br><br>
+<img src="images/mignar_gen.png?raw=true" style="width: 100%; height: auto;">
+
+Alongside my collaborators, I am developing a novel graph neural network (GNN) tailored for link prediction in temporal multiplex networks, with the aim of better understanding dynamic ecological systems. The work seeks to understand how anthropogenic impacts, such as climate change or habitat degradation, alter bird migration patterns along the East Atlantic flyway. To do this, we're building a GNN architecture that captures both temporal and multilayer aspects of network data, validated on mobility network data as a proof of concept. The model integrates node, edge, and temporal embeddings through graph attention mechanisms to predict dynamic interactions over time. We are constructing ecological suitability networks connecting avian migration stopover sites, which will be used to develop practical use-cases of EcoMultiRGNN.
+
+---
 [![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/tediyankov/mignar-benchmark)
 ![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
 <br>
