@@ -63,3 +63,15 @@ a:visited {
 a:hover {
     color: #b26634; /* Change this to your desired hyperlink color on hover */
 }
+
+.wrapper {
+    width: 1100px; /* Was 860px */
+  }
+  
+  header {
+    width: 280px; /* Was 220px */
+  }
+  
+  section {
+    width: 780px; /* Was 600px */
+  }
