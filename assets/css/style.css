@@ -2,25 +2,22 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --ink:        #1a1a1a;
-  --muted:      #555;
-  --rule:       #d0c9bb;
+  --ink:        #0c2450;
+  --muted:      #3d5843;
+  --rule:       #bbc8d0;
   --bg:         #faf8f4;
-  --accent:     #7a2e0e;   /* deep burgundy — a nod to old library bindings */
-  --max-w:      680px;
+  --accent:     #66826e;   /* deep burgundy — a nod to old library bindings */
+  --max-w:      560px;     /* narrower column = natural side margins */
   --serif:      "Times New Roman", Times, serif;
 }
 
-html { font-size: 18px; scroll-behavior: smooth; }
+html { font-size: 15px; scroll-behavior: smooth; }
 
 body {
   font-family: var(--serif);
   background: var(--bg);
   color: var(--ink);
-  line-height: 1.75;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+  line-height: 1.45;
 }
 
 /* ─── Navigation ────────────────────────────────────────────────── */
@@ -45,6 +42,7 @@ nav {
 .nav-name {
   font-size: 1rem;
   font-style: italic;
+  font-weight: bold;
   color: var(--ink);
   text-decoration: none;
   margin-right: auto;
@@ -56,7 +54,7 @@ nav a {
   color: var(--muted);
   text-decoration: none;
   letter-spacing: 0.05em;
-  text-transform: uppercase;
+  text-transform: lowercase;
   transition: color 0.15s;
 }
 
@@ -94,8 +92,8 @@ hr {
 
 /* ─── Section label ─────────────────────────────────────────────── */
 .section-label {
-  font-size: 0.7rem;
-  text-transform: uppercase;
+  font-size: 0.9rem;
+  text-transform: lowercase;
   letter-spacing: 0.12em;
   color: var(--muted);
   margin-bottom: 2rem;
@@ -117,12 +115,17 @@ hr {
 .tag {
   display: inline-block;
   font-size: 0.72rem;
-  border: 1px solid var(--rule);
-  color: var(--muted);
-  padding: 0.1rem 0.5rem;
+  border: none;
+  color: #f5f0ea;
+  padding: 0.18rem 0.6rem;
   margin-right: 0.35rem;
   letter-spacing: 0.04em;
+  border-radius: 20px;
+  background-color: #7a6a58;
 }
+.tag:nth-child(3n+1) { background-color: #7a6a58; }  /* warm taupe */
+.tag:nth-child(3n+2) { background-color: #4a6670; }  /* slate blue */
+.tag:nth-child(3n+3) { background-color: #5a6b4f; }  /* muted sage */
 
 /* ─── Gallery grid ──────────────────────────────────────────────── */
 .gallery-grid {
@@ -194,6 +197,30 @@ hr {
   padding: 0.5rem 1.25rem;
   color: var(--muted);
   font-style: italic;
+}
+
+/* ─── Avatar ────────────────────────────────────────────────────── */
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center top;
+  border: 1px solid var(--rule);
+  display: block;
+  margin: 0 auto 1.25rem;
+  filter: sepia(8%) contrast(0.97);
+}
+
+/* ─── Project image ─────────────────────────────────────────────── */
+.project-img {
+  width: 100%;
+  aspect-ratio: 16 / 7;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 0.85rem;
+  border: 1px solid var(--rule);
+  filter: sepia(8%) contrast(0.95);
 }
 
 /* ─── Footer ────────────────────────────────────────────────────── */
