@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gallery · Jane Doe</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+  <header>
+    <nav>
+      <a class="nav-name" href="index.html">Jane Doe</a>
+      <a href="index.html">About</a>
+      <a href="projects.html">Projects</a>
+      <a href="gallery.html">Gallery</a>
+      <a href="blog.html">Blog</a>
+    </nav>
+  </header>
+
+  <main>
+    <p class="section-label">Visual</p>
+    <h1>Gallery</h1>
+    <p style="color: var(--muted); margin-bottom: 2rem;">
+      Photos from fieldwork, conferences, and everyday life.
+    </p>
+
+    <!--
+      HOW TO ADD YOUR OWN PHOTOS
+      ───────────────────────────
+      1. Drop image files into an assets/img/ folder.
+      2. Copy one of the <figure> blocks below and update:
+           src="assets/img/YOUR-FILE.jpg"
+           alt="Brief description"
+           <figcaption>Caption text</figcaption>
+      3. The grid reflows automatically — no other changes needed.
+    -->
+
+    <div class="gallery-grid">
+
+      <!-- Placeholder tiles that use a free image service -->
+      <figure class="gallery-item">
+        <img src="https://picsum.photos/seed/lab1/400/400" alt="Lab bench" loading="lazy" />
+        <figcaption>Lab, autumn 2024</figcaption>
+      </figure>
+
+      <figure class="gallery-item">
+        <img src="https://picsum.photos/seed/conf2/400/400" alt="Conference hall" loading="lazy" />
+        <figcaption>CogSci, Vienna</figcaption>
+      </figure>
+
+      <figure class="gallery-item">
+        <img src="https://picsum.photos/seed/field3/400/400" alt="Fieldwork" loading="lazy" />
+        <figcaption>Fieldwork trip</figcaption>
+      </figure>
+
+      <figure class="gallery-item">
+        <img src="https://picsum.photos/seed/office4/400/400" alt="Office window" loading="lazy" />
+        <figcaption>Office view, winter</figcaption>
+      </figure>
+
+      <figure class="gallery-item">
+        <img src="https://picsum.photos/seed/city5/400/400" alt="City" loading="lazy" />
+        <figcaption>Amsterdam, Jan 2025</figcaption>
+      </figure>
+
+      <figure class="gallery-item">
+        <img src="https://picsum.photos/seed/nature6/400/400" alt="Nature" loading="lazy" />
+        <figcaption>Weekend hike</figcaption>
+      </figure>
+
+    </div>
+  </main>
+
+  <footer>© 2025 Jane Doe</footer>
+
+  <script src="assets/js/nav.js"></script>
+</body>
+</html>
