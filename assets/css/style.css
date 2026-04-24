@@ -215,8 +215,8 @@ hr {
 /* ─── Project image ─────────────────────────────────────────────── */
 .project-img {
   width: 100%;
-  aspect-ratio: 16 / 7;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
   display: block;
   margin-bottom: 0.85rem;
   border: 1px solid var(--rule);
